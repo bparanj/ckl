@@ -1,3 +1,6 @@
+# Watch the Screencast
+[![ Rails 5 todo list app with jQuery and Ajax](https://d2d8g20jj5tev4.cloudfront.net/rubyplus-screencast.png)](https://rubyplus.com/episodes/101-Ajax-using-jQuery-in-Rails-5)
+
 rails new ckl --skip-spring
 
 ```
